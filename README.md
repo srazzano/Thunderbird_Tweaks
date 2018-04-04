@@ -1,1 +1,1 @@
-Various tweaks for Thunderbird.
+Various tweaks and custom buttons for Thunderbird.
