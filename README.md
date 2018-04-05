@@ -6,4 +6,4 @@
 
 Various tweaks and custom buttons for Thunderbird.
 
-Install custom buttons htm files separately from xpi file.
+Custom buttons htm files in custombuttons folder in xpi.
