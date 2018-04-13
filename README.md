@@ -2,7 +2,7 @@
 
 # Thunderbird Tweaks
 
-<img src="https://github.com/srazzano/Images/blob/master/tweaks.png"/>
+<img src="https://github.com/srazzano/Images/blob/master/tbTweaks.png"/>
 
 Various tweaks and custom buttons for Thunderbird.
 
