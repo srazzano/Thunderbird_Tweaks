@@ -1,4 +1,4 @@
-<img src="https://github.com/srazzano/Images/blob/master/tbicon.png"/>
+<img src="https://github.com/srazzano/Images/blob/master/mozTB.png"/>
 
 # Thunderbird Tweaks
 
